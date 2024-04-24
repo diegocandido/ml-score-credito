@@ -219,7 +219,7 @@ df_dados.tail()
 
 
 <div>
-<style scoped>
+ 
     .dataframe tbody tr th:only-of-type {
         vertical-align: middle;
     }
@@ -454,19 +454,7 @@ df_dados.loc[df_dados['ULTIMO_SALARIO'] == 'SEM DADOS']
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
 
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -633,19 +621,7 @@ df_dados.describe()
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
 
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -864,7 +840,7 @@ df_dados.loc[df_dados['QT_FILHOS'] > 4]
 
 
 <div>
-<style scoped>
+ 
     .dataframe tbody tr th:only-of-type {
         vertical-align: middle;
     }
@@ -1214,7 +1190,7 @@ df_dados.head(200)
 
 
 <div>
-<style scoped>
+ 
     .dataframe tbody tr th:only-of-type {
         vertical-align: middle;
     }
@@ -5310,7 +5286,7 @@ preditoras.head()#Visualizando as variaveis preditoras
 
 
 <div>
-<style scoped>
+ 
     .dataframe tbody tr th:only-of-type {
         vertical-align: middle;
     }
