@@ -1,12 +1,12 @@
 ## PREVISÃO DO SCORE DE CRÉDITO COM REGRESSÃO LINEAR
 ### Vamos criar um modelo predito de machine learning para prever o score de crédito do cliente:
-    - Analise Exploratória e Gráficos<br>
-    - Tratamento de dados missing <br>
-    - Tratamento de outliers <br>
-    - OneHotEncoding <br>
-    - Engenharia de Atributos <br>
-    - Tratamento de dados <br>
-    - Normalização de dados <br>
+    - Analise Exploratória e Gráficos
+    - Tratamento de dados missing
+    - Tratamento de outliers
+    - OneHotEncoding
+    - Engenharia de Atributos
+    - Tratamento de dados
+    - Normalização de dados
     - Criação, teste e validação de um modelo de machine learning
 
 
